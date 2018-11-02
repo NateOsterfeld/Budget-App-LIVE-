@@ -1,0 +1,2 @@
+# Budget-App-LIVE-
+See LIVE DEMO here: https://natesbudgetapp.netlify.com/  Pretty straight forward, this budgeting app allows for users to add and remove incomes and expenses, while tracking their total available budget for the month, and the percentages of each expense. Netlify still won't read iconic's CDN so the icons for the delete and add elements are missing in the deployed version, but is still functional by simply using the enter key to add items. Clone and run on local machine for full version. Enjoy!
